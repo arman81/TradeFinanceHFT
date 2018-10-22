@@ -1,0 +1,9 @@
+A strategy which leverages the phenomenon of a Short Squeeze-
+A short squeeze is something which happens cos of a sudden rise in the price of a security which was not expected from trend analysis.
+Such a situtaion cause a panic selling among the traders who are short on that particular instrument and try to close their
+position as soon as possible to avoid further loss.
+To leverage such a situation we need many things-
+i. Need to keep track of trend of the instrument's price/performance(the slope of the decline in this case i.e keep track of steepness
+of the slope)
+ii. Need to keep a close look at the the Short Interest Ratio of the instrument under interest,this is the most critical step
+iii. Need to find the driving factors for the decline and also identify potential driving factors for the proposed imminent decline in the price.
